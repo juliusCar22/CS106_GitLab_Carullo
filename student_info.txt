@@ -1,3 +1,4 @@
 Student Name: Julius S. Carullo
 Student ID: 2025-01-14633
 Section: BSCS 2B
+Topic: Git Bash Fundamentals
